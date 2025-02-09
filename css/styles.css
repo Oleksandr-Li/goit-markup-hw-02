@@ -78,7 +78,7 @@ a{
     color: #2e2f42;
 }
 
-.base-h-two-van{
+.base-h-two-one{
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -88,7 +88,7 @@ a{
     text-transform: capitalize;
 }
 
-.base-h-tri{
+.base-h-three{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -100,16 +100,16 @@ a{
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.comand{
+.team{
     background-color: #f4f4fd;
 }
-.comand-link{
+.team-link{
     background-color: #fff;
 }
 .footer{
     background-color: #2e2f42;
 }
-.logo-futer{
+.logo-footer{
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -118,7 +118,7 @@ a{
     text-transform: uppercase;
     color: #4d5ae5;
 }
-.logo-futer-span{
+.logo-footer-span{
     color: #f4f4fd;
 }
 .footer-p{

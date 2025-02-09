@@ -1,5 +1,5 @@
 body {
-    font-family: sans-serif;
+    font-family: "Roboto", sans-serif;
     background-color: #fff;
     color: #434455;
 }
@@ -18,7 +18,7 @@ a {
 }
 
 .logo {
-    font-family: sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -62,93 +62,95 @@ a {
 }
 
 
-        .business-h {
-            font-weight: 700;
-                font-size: 56px;
-                line-height: 1.07;
-                letter-spacing: 0.02em;
-                text-align: center;
-                color: #fff;
-            } .button-business {
-                font-weight: 500;
-                font-size: 16px;
-                line-height: 1.5;
-                letter-spacing: 0.04em;
-                color: #fff;
-                background-color: #4d5ae5;
-                cursor: pointer;
-            }
-            
-            .button-business:focus,
-            .button-business:hover {
-                background-color: #404BBF;
-            }
-
-       
-            .base-h-two {
-                font-weight: 700;
-                font-size: 36px;
-                line-height: 1.11;
-                letter-spacing: 0.02em;
-                text-align: center;
-                color: #2e2f42;
-            }
-
-            
-                .base-h-two-one {
+                .business-h {
                     font-weight: 700;
-                        font-size: 36px;
-                        line-height: 1.11;
-                        letter-spacing: 0.02em;
-                        text-align: center;
-                        color: #2e2f42;
-                        text-transform: capitalize;
+                    font-size: 56px;
+                    line-height: 1.07;
+                    letter-spacing: 0.02em;
+                    text-align: center;
+                    color: #fff;
+                }
+        
+                .button-business {
+                    font-weight: 500;
+                    font-size: 16px;
+                    line-height: 1.5;
+                    letter-spacing: 0.04em;
+                    color: #fff;
+                    background-color: #4d5ae5;
+                    cursor: pointer;
+                }
+        
+                .button-business:focus,
+                .button-business:hover {
+                    background-color: #404BBF;
                 }
 
+       
+                        .base-h-two {
+                            font-weight: 700;
+                            font-size: 36px;
+                            line-height: 1.11;
+                            letter-spacing: 0.02em;
+                            text-align: center;
+                            color: #2e2f42;
+                        }
+
+            
+                                .base-h-two-van {
+                                    font-weight: 700;
+                                    font-size: 36px;
+                                    line-height: 1.11;
+                                    letter-spacing: 0.02em;
+                                    text-align: center;
+                                    color: #2e2f42;
+                                    text-transform: capitalize;
+                                }
+
                 
-                    .base-h-three {
-                        font-weight: 500;
-                        font-size: 20px;
-                        line-height: 1.2;
-                        letter-spacing: 0.02em;
-                        color: #2e2f42;
-                    }
-
-                    .base-p {
-                        font-size: 16px;
-                        line-height: 1.5;
-                        letter-spacing: 0.02em;
-                    }
-
-                    .team {
-                        background-color: #f4f4fd;
-                    }
-
-                    .team-link {
-                        background-color: #fff;
-                    }
-
-                    .footer {
-                        background-color: #2e2f42;
-                    }
-
-                    .logo-footer {
-                        font-family: sans-serif;
-                        font-weight: 700;
-                        font-size: 18px;
-                        line-height: 1.17;
-                        letter-spacing: 0.03em;
-                        text-transform: uppercase;
-                        color: #4d5ae5;
-                    }
-
-                    .logo-footer-span {
-                        color: #f4f4fd;
-                    }
-
-                    .footer-p {
-                        font-size: 16px;
-                        line-height: 1.5;
-                        letter-spacing: 0.02em;
-                        color: #f4f4fd;
-                    }
+                                        .base-h-tri {
+                                            font-weight: 500;
+                                            font-size: 20px;
+                                            line-height: 1.2;
+                                            letter-spacing: 0.02em;
+                                            color: #2e2f42;
+                                        }
+                    
+                                        .base-p {
+                                            font-size: 16px;
+                                            line-height: 1.5;
+                                            letter-spacing: 0.02em;
+                                        }
+                    
+                                        .comand {
+                                            background-color: #f4f4fd;
+                                        }
+                    
+                                        .comand-link {
+                                            background-color: #fff;
+                                        }
+                    
+                                        .footer {
+                                            background-color: #2e2f42;
+                                        }
+                    
+                                        .logo-futer {
+                                            font-family: "Raleway", sans-serif;
+                                            font-weight: 700;
+                                            font-size: 18px;
+                                            line-height: 1.17;
+                                            letter-spacing: 0.03em;
+                                            text-transform: uppercase;
+                                            color: #4d5ae5;
+                                        }
+                    
+                                        .logo-futer-span {
+                                            color: #f4f4fd;
+                                        }
+                    
+                                        .footer-p {
+                                            font-size: 16px;
+                                            line-height: 1.5;
+                                            letter-spacing: 0.02em;
+                                            color: #f4f4fd;
+                                        }

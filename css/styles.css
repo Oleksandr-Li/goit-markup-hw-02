@@ -62,15 +62,27 @@ a {
 }
 
 
-    .business-h {
-        font-weight: 700;
-        font-size: 56px;
-        line-height: 1.07;
-    }
-
-        @@ -67, 15+67, 15 @@ .button-business:focus, .button-business:hover {
-            background-color: #404BBF;
-        }
+        .business-h {
+            font-weight: 700;
+                font-size: 56px;
+                line-height: 1.07;
+                letter-spacing: 0.02em;
+                text-align: center;
+                color: #fff;
+            } .button-business {
+                font-weight: 500;
+                font-size: 16px;
+                line-height: 1.5;
+                letter-spacing: 0.04em;
+                color: #fff;
+                background-color: #4d5ae5;
+                cursor: pointer;
+            }
+            
+            .button-business:focus,
+            .button-business:hover {
+                background-color: #404BBF;
+            }
 
        
             .base-h-two {
@@ -85,10 +97,12 @@ a {
             
                 .base-h-two-one {
                     font-weight: 700;
-                    font-size: 36px;
-                    line-height: 1.11;
-                    @@ -84, 41+84, 41 @@ color: #2e2f42;
-                    text-transform: capitalize;
+                        font-size: 36px;
+                        line-height: 1.11;
+                        letter-spacing: 0.02em;
+                        text-align: center;
+                        color: #2e2f42;
+                        text-transform: capitalize;
                 }
 
                 
